@@ -1,0 +1,117 @@
+/* Title */
+#boy_logo {
+  width: 190px;
+  margin: 3% 44%;
+}
+
+#boy_logo_hello {
+  width: 250px;
+  margin: 3% 40%;
+}
+
+#center_align {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.center_align {
+  text-align: center;
+  margin-top: 2%;
+}
+
+/* Skills */
+#pricing {
+  margin: 2%;
+  padding: 4%;
+}
+
+.pricing-text {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.skill_imgs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.skill_text {
+  margin-top: 5%;
+  text-align: center;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 1.4rem;
+}
+
+.skills_desc {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.skills_tag {
+  text-align: center;
+  color: #7510F7;
+  font-size: 1.3rem;
+}
+
+/* Social Media */
+#footer {
+  text-align: center;
+}
+
+.social-media {
+  margin: 16px 16px 30px 16px;
+}
+
+/* All Componets attributes */
+h1 {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 2.2rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Zilla Slab', serif;
+  font-size: 2rem;
+  line-height: 1;
+  color: black;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: black;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 3em 0;
+  padding: 0;
+}
+
+.center {
+  margin-top: 10%;
+  margin-bottom: 6%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.line_height {
+  line-height: 1.7;
+}
+
+.link {
+  color: #000000;
+}
+
+/* Say Hello */
+.forms {
+  width: 60%;
+  margin: 2% 20%;
+}
